@@ -6,7 +6,7 @@
     <title>BASIC CALCULATOR</title>
 </head>
 <body>
-    <form action="form.php" method="get">
+    <form action="basic calculator.php" method="get">
         Number1:<br>
         <input type="number" name="num1"><br>
         Number2:
