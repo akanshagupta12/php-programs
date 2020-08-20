@@ -16,6 +16,6 @@
         <input type="submit">
     </form>
     <br>
-    ANSWER:  <?php echo $_GET["num1"] + $_GET[num2] ?>;
+    ANSWER:  <?php echo $_GET["num1"] + $_GET["num2"] ?>;
 </body>
 </html>
