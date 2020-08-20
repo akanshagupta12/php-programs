@@ -7,9 +7,9 @@
 </head>
 <body>
     <form action="form.php" method="get">
-        Name:<br>
+        Number1:<br>
         <input type="number" name="num1"><br>
-        Age:
+        Number2:
         <br>
         <input type="number" name="num2">
         <br>
